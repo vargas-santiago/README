@@ -18,7 +18,7 @@ class README {
             "Bash", "Github", "Linux", "Windows", "JSON", "Visual Basic", "Visual C#");
     
     static String whoami = "I love anything to do with technology and how software is built. \n" + 
-            "I am currently located in Boise, ID. From of Oct 2021 to July 2022 I \n" +
+            "I am currently located in Boise, ID. From Oct 2021 to July 2022 I \n" +
             "attended Bloom Bloom Institute of Technology. I mostly code in Java but have also made \n" +
             "small video games in Visual C#, Visual Basic, Dark Basic, and Lua. I have recently started \n" +
             "to learn the Rust programming language.";
