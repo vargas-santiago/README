@@ -12,16 +12,16 @@ class README {
 
 
     static List<String> languages_and_tools = Arrays.asList(
-            "Java", "Spring Boot" , "Git", "HTML", "CSS", 
+            "Java", "Spring Boot" , "Git", "HTML", "CSS", "Scala", 
             "AWS", "MongoDB", "Gradle", "Maven", "SQL", "Postman",
-            "Oracle", "Swagger", "Intellij IDEA", "Visual Code",
-            "Bash", "Github", "Linux", "Windows", "JSON", "Visual Basic", "Visual C#");
+            "Oracle", "Swagger", "Intellij IDEA", "Visual Code", "NeoVIM",
+            "Bash", "Github", "Linux", "Windows", "JSON");
     
     static String whoami = "I love anything to do with technology and how software is built. \n" + 
             "I am currently located in Boise, ID. From Oct 2021 to July 2022 I \n" +
             "attended Bloom Bloom Institute of Technology. I mostly code in Java but have also made \n" +
             "small video games in Visual C#, Visual Basic, Dark Basic, and Lua. I have recently started \n" +
-            "to learn the Rust programming language.";
+            "to learn the Rust programming language. A am also a former Amazon developer.";
     
     static final String OPERATING_SYSTEM = "I used to only run windows but in the last year I have become \n" +
             "a die hard Linux enthusiast.";
@@ -31,8 +31,8 @@ class README {
     public static void main(String[] args) {
 
         socials.put("LinkedIn", "vargas-santiago");
-        socials.put("GitHub", "vargas-santiago");
-        socials.put("Email", "vargas-santiago@protonmail.com");
+        socials.put("GitHub", "vargas-santiagoo");
+        socials.put("Email", "swvargas@protonmail.com");
 
         System.out.println("Socials:");
         System.out.println(socials + "\n");
